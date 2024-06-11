@@ -9,8 +9,12 @@ This project analyzes Covid-19 data to provide insights into the pandemic's tren
 - **Data Visualization**: Creating visual representations of the data to highlight key trends and insights using various in-build libraries
 -  like matplotlib,seaborn,pyplot etc.
 
-## 🚀 Installation
+## 🙏 Acknowledgements
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/kritika2313/Covid-19Analysis.git
+I would like to thank the following resources and individuals who made this project possible:
+
+- **Data Source**: Thanks to Kaggle for providing the Covid-19 data.
+- **Inspiration**: This project was inspired by the need to understand and visualize the impact of Covid-19 globally.
+- **Tools and Libraries**: Special thanks to the developers of Pandas, Matplotlib, Seaborn, and Pyplot, which were crucial for data analysis and visualization.
+
+
